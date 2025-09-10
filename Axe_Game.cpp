@@ -41,7 +41,7 @@ int main()
                                 (l_axe_X <= r_circle_X));
 
     //Creating Window                            
-    InitWindow(width, height, "Faiaz");
+    InitWindow(width, height, "Axe_Game");
 
     //Limit FPS
     SetTargetFPS(60);
