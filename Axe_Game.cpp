@@ -31,6 +31,7 @@ int main()
 
     InitWindow(width, height, "Faiaz");
     // comment fps
+    // more comments
     SetTargetFPS(60);
     while (WindowShouldClose() == false)
     {
