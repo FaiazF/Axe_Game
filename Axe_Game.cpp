@@ -30,7 +30,7 @@ int main()
                                 (l_axe_X <= r_circle_X));
 
     InitWindow(width, height, "Faiaz");
-
+    // comment fps
     SetTargetFPS(60);
     while (WindowShouldClose() == false)
     {
