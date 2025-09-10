@@ -36,8 +36,9 @@ The player controls a circle that can move left and right to avoid a falling axe
 ---
 
 ## 📸 Preview
+<img width="797" height="422" alt="Axe Game" src="https://github.com/user-attachments/assets/050a1a91-ab54-47e7-bfe9-98139035f21c" />
 
-
+Gameplay : https://youtu.be/P0nUVYu8BXY
 
 ---
 
